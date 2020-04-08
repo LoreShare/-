@@ -326,6 +326,10 @@ public class Test3 {
 
 ## 4.Function接口详解
 
+```java
+
+```
+
 
 
 ## 5.Function与BiFunction函数式接口详解
