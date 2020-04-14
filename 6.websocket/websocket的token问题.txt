@@ -1,0 +1,9 @@
+https://stackoverflow.com/questions/30887788/json-web-token-jwt-with-spring-based-sockjs-stomp-web-socket/39456274#39456274
+
+https://stackoverflow.com/questions/39422053/spring-4-x-token-based-websocket-sockjs-fallback-authentication
+
+https://github.com/spring-projects/spring-framework/issues/19254
+
+https://github.com/sockjs/sockjs-client/issues/196
+
+https://docs.spring.io/spring/docs/5.2.5.RELEASE/spring-framework-reference/web.html#websocket-stomp-authentication
